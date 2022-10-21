@@ -1,0 +1,52 @@
+
+
+
+ .box{
+    background-color: #222026;
+    border-radius: .5rem;
+    padding:2rem;
+    text-align: center;
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.1);
+}
+
+ .box .icon{
+    height: 5rem;
+    width: 5rem;
+    line-height: 5rem;
+    font-size: 2rem;
+    color: white;
+    background-color: #C97642;
+    border-radius: 50%;
+    margin: 0 auto;
+}
+
+ .box .text{
+    margin-top: 1rem;
+}
+
+
+.box .text h3{
+    margin: 1rem 0;
+    text-transform: capitalize;
+    font-size: 1.6rem;
+}
+
+.box .text p{
+    line-height: 2;
+    font-size:  1rem;
+    color: #C97642;
+}
+
+.credit {
+    text-align: center;
+    margin-top: 3rem;
+    padding: 1rem 0rem;
+    border-top: #C97642 2px solid;
+    font-size: 1.4rem;
+    color: white;
+}
+
+
+.credit span {
+    color: #C97642;
+}
